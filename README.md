@@ -47,7 +47,7 @@
 
 <p><img align="right"
   src="https://chamu-stats.vercel.app/api/top-langs?username=chamupathidev&layout=compact&theme=radical&border_radius=10&bg_color=00000000"
-  width="500"
+  width="400"
   height="200"
   alt="Top Languages"
 />
