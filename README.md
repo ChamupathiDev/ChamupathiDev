@@ -22,7 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamupathidev&show_icons=true&locale=en" alt="chamupathidev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamupathidev&" alt="chamupathidev" /></p>
----
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
