@@ -45,9 +45,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamupathidev&show_icons=true&locale=en&layout=compact" alt="chamupathidev" /></p>
+<p><img align="left" src="https://chamu-stats.vercel.app/api/top-langs?username=chamupathidev&layout=compact" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamupathidev&show_icons=true&locale=en" alt="chamupathidev" /></p>
+<p>&nbsp;<img align="center" src="https://chamu-stats.vercel.app/api?username=chamupathidev" /></p>
 
 
 <p align="center">
