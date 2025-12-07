@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" height="200" alt="ChatGPT Image Dec 8, 2025, 02_08_10 AM" src="https://github.com/user-attachments/assets/8c1553ff-36d2-4e03-953a-f9bfbade33d6" />
+
 </p>
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dineth Chamupathi Kumara
