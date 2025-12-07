@@ -1,5 +1,5 @@
 <p align="center">
-
+  <img src="./asserts/gif_1765140930.gif" alt="animated gif" />
 </p>
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dineth Chamupathi Kumara
