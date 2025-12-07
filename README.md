@@ -29,7 +29,7 @@
 
     </td>
     <td width="40%" align="center">
-      <img src="./asserts/gif_1765141216.gif" width="500" height="300" />
+      <img src="./asserts/gif_1765141216.gif" width="250" height="300" />
     </td>
   </tr>
 </table>
