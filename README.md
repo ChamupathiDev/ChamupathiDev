@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Dineth Chamupathi Kumara</h1>
-<h3 align="center">A passionate IT undergraduate exploring Full-Stack Development, AI/ML, and modern technologies.</h3>
+<p align="center">
+<img width="200" height="200" alt="ChatGPT Image Dec 8, 2025, 02_08_10 AM" src="https://github.com/user-attachments/assets/8c1553ff-36d2-4e03-953a-f9bfbade33d6" />
+</p>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dineth Chamupathi Kumara
+</h1>
+
+<h3 align="center">
+  A passionate IT undergraduate exploring Full-Stack Development, AI/ML, and modern technologies.
+</h3>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chamupathidev&label=Profile%20views&color=0e75b6&style=flat" alt="chamupathidev" /> </p>
 
 ---
@@ -30,7 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamupathidev&show_icons=true&locale=en" alt="chamupathidev" /></p>
 
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamupathidev&theme=dark" alt="chamupathidev" />
 </p>
 
