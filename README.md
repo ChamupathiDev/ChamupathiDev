@@ -45,9 +45,17 @@
 </p>
 
 
-<p><img align="left" src="https://chamu-stats.vercel.app/api/top-langs?username=chamupathidev&layout=compact" /></p>
+<p><img align="right"
+  src="https://chamu-stats.vercel.app/api/top-langs?username=chamupathidev&layout=compact&theme=radical&border_radius=10&bg_color=00000000" 
+  alt="Top Languages"
+/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://chamu-stats.vercel.app/api?username=chamupathidev" /></p>
+<p>&nbsp;<img align="center" 
+  src="https://chamu-stats.vercel.app/api?username=chamupathidev&show_icons=true&theme=radical&border_radius=10&bg_color=00000000" 
+  alt="Stats"
+/>
+</p>
 
 
 <p align="center">
