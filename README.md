@@ -17,7 +17,7 @@
   <tr>
     <td width="90%">
       
-- 🔭 I’m currently working on **FLUSEC: VS Code extension**
+- 🔭 I’m currently working on **FLUSEC: VS Code extension research project**
 
 - 🌱 I’m currently learning **AI/ML, DevOps, Cloud Computing**
 
