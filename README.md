@@ -15,13 +15,25 @@
 
 - ⚡ Fun fact **Call me as chamupathi**
 ---
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamupathidev" alt="chamupathidev" /></a> </p>
+
+
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=chamupathidev&theme=darkhub" alt="chamupathidev" />
+  </a>
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamupathidev&show_icons=true&locale=en&layout=compact" alt="chamupathidev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamupathidev&show_icons=true&locale=en" alt="chamupathidev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamupathidev&" alt="chamupathidev" /></p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamupathidev&theme=dark" alt="chamupathidev" />
+</p>
+
 
 
 <h3 align="left">Connect with me:</h3>
