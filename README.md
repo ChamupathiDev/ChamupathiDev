@@ -15,7 +15,7 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="80%">
       
 - 🔭 I’m currently working on **FLUSEC: VS Code extension**
 
@@ -28,8 +28,8 @@
 - ⚡ Fun fact **Call me as chamupathi**
 
     </td>
-    <td width="40%" align="center">
-      <img src="./asserts/gif_1765141216.gif" width="250" height="300" />
+    <td width="20%" align="center">
+      <img src="./asserts/gif_1765141216.gif" width="500" height="400" />
     </td>
   </tr>
 </table>
