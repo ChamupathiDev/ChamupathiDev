@@ -13,16 +13,27 @@
 
 ---
 
-
+<table>
+  <tr>
+    <td width="60%">
+      
 - 🔭 I’m currently working on **FLUSEC: VS Code extension**
 
 - 🌱 I’m currently learning **AI/ML, DevOps, Cloud Computing**
 
-- 💬 Ask me about **Web development |Mobile app devlopment**
+- 💬 Ask me about **Web development | Mobile app development**
 
 - 📫 How to reach me **dcha5616@gmail.com**
 
 - ⚡ Fun fact **Call me as chamupathi**
+
+    </td>
+    <td width="40%" align="center">
+      <img src="./asserts/gif_1765141216.gif" width="500" height="300" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 
