@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chamupathidev&theme=darkhub" alt="chamupathidev" />
+    <img src="https://chamu-stats.vercel.app/api?username=chamupathidev&theme=darkhub" alt="chamupathidev" />
   </a>
 </p>
 
