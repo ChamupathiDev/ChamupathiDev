@@ -35,16 +35,6 @@
 </table>
 
 ---
-
-
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://chamu-stats.vercel.app/api?username=chamupathidev&theme=darkhub" alt="chamupathidev" />
-  </a>
-</p>
-
-
 <p><img align="right"
   src="https://chamu-stats.vercel.app/api/top-langs?username=chamupathidev&layout=compact&theme=radical&border_radius=10&bg_color=00000000"
   width="300"
