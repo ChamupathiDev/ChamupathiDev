@@ -36,7 +36,7 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=chamupathidev&theme=darkhub" alt="chamupathidev" /> </a> </p>
+
 <p><img align="right"
   src="https://chamu-stats.vercel.app/api/top-langs?username=chamupathidev&layout=compact&theme=radical&border_radius=10&bg_color=00000000"
   width="300"
@@ -52,9 +52,7 @@
 </p>
 
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamupathidev&theme=dark" alt="chamupathidev" />
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
