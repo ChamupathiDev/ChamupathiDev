@@ -46,7 +46,7 @@
 </p>
 
 <p>&nbsp;<img align="center" 
-  src="https://chamu-stats.vercel.app/api?username=chamupathidev&show_icons=true&theme=radical&border_radius=10&bg_color=00000000" 
+  src="https://chamu-stats.vercel.app/api?username=chamupathidev&show_icons=true&theme=radical&border_radius=10&bg_color=00000000&v=20251218" 
   alt="Stats"
 />
 </p>
